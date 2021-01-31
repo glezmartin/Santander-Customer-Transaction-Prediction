@@ -9,11 +9,11 @@ This competition created by Santander Bank proposes the development of a model f
 ## Table of contents
 1. [Exploratory Data Analysis](https://github.com/glezmartin/Santander-Customer-Transaction-Prediction/blob/main/project_code/exploratory_data_analysis/exploratory_data_analysis.ipynb)
 2. Data Preparation
-- Data Cleaning
-- Feature Selection
-- Data Transformation
-- Feature Engineering
-- Dimensionality reduction
+  2.1 Data Cleaning
+  2.2 Feature Selection
+  2.3 Data Transformation
+  2.4 Feature Engineering
+  2.5 Dimensionality Reduction
 3. Model Development
 4. Hyperparameter Search
 
